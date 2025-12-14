@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "date": "2025-12-14 12:25",
+    "check_type": "Ежедневная",
+    "temperature": 4.5,
+    "cleanliness_score": 8,
+    "inspector": "Сидоров А.И.",
+    "notes": "Все в норме",
+    "violations": []
+  },
+  {
+    "id": 2,
+    "date": "2025-12-14 12:28",
+    "check_type": "Ежедневная",
+    "temperature": 3.5,
+    "cleanliness_score": 10,
+    "inspector": "Бабынов Е.Э.",
+    "notes": "",
+    "violations": []
+  },
+  {
+    "id": 3,
+    "date": "2025-12-14 17:07",
+    "check_type": "Внеплановая",
+    "temperature": 6.5,
+    "cleanliness_score": 6,
+    "inspector": "Чапмэн Г.Г.",
+    "notes": "",
+    "violations": [
+      {
+        "violation": "а",
+        "corrective_action": "а",
+        "date": "2025-12-14 17:13"
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "full_name": "Иванов Иван Иванович",
+    "arrival_date": "2024-01-15",
+    "source": "Городская больница №1",
+    "storage_location": "Холодильная камера 3",
+    "documents": [
+      "Направление из больницы",
+      "Паспорт"
+    ],
+    "status": "выдано",
+    "preparation_date": null,
+    "release_date": "2025-12-14 17:24",
+    "funeral_service": null,
+    "notes": "",
+    "registration_date": "2025-12-14 12:25"
+  },
+  {
+    "id": 2,
+    "full_name": "Петров Петр Петрович",
+    "arrival_date": "2024-01-14",
+    "source": "Полиция",
+    "storage_location": "Холодильная камера 2",
+    "documents": [
+      "Протокол осмотра",
+      "Паспорт"
+    ],
+    "status": "подготовлено",
+    "preparation_date": "2025-12-14 17:22",
+    "release_date": null,
+    "funeral_service": null,
+    "notes": "",
+    "registration_date": "2025-12-14 12:25"
+  },
+  {
+    "id": 3,
+    "full_name": "Калдун Серж Казан-оглы",
+    "arrival_date": "2021-04-04",
+    "source": "Другое",
+    "storage_location": "Холодильная камера 1",
+    "documents": [
+      "Паспорт"
+    ],
+    "status": "поступило",
+    "preparation_date": null,
+    "release_date": null,
+    "funeral_service": null,
+    "notes": "",
+    "registration_date": "2025-12-14 17:20"
+  }
+]

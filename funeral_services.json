@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "body_id": 1,
+    "service_name": "РС",
+    "contact_person": "Валерий",
+    "contact_phone": "+73223223322",
+    "planned_date": "2025-12-14",
+    "documents_needed": [
+      "Свидетельство о смерти",
+      "Паспорт",
+      "Доверенность"
+    ],
+    "documents_provided": [],
+    "coordination_date": "2025-12-14",
+    "status": "в процессе"
+  }
+]
